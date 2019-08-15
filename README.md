@@ -8,6 +8,7 @@ Note: excluding links to Wikipedia pages and official documentation
 
 [Versioning Data Science](https://shuaiw.github.io/2017/07/30/versioning-data-science.html)
 
+
 ## TDD + Code Review
 [Ned Batchelder: Getting Started Testing - PyCon 2014](https://www.youtube.com/watch?v=FxSsnHeWQBY) (video tutorial)
 
@@ -51,8 +52,18 @@ Note: excluding links to Wikipedia pages and official documentation
 
 [Collaborative Filtering-Based Recommendations](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
 
+[AirBnB Recs using Embeddings](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
 
-## General
+[Deep Learning Recs](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
+
+[Business Goals of Recs](https://gab41.lab41.org/recommender-systems-its-not-all-about-the-accuracy-562c7dceeaff)
+
+[The Right Recs Metrics - Different Rating Scales](https://conversionxl.com/blog/survey-response-scales/)
+
+
+## General/Misc
 [AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 
 [Figure Eight Datasets](https://www.figure-eight.com/data-for-everyone/)
+
+[Useful code snippets: Chris Albon blog](https://chrisalbon.com)
