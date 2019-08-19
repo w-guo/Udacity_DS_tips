@@ -2,6 +2,8 @@
 Note: excluding links to Wikipedia pages and official documentation
 
 ## Git
+[5 Types of Git Workflows](https://buddy.works/blog/5-types-of-git-workflows)
+
 [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 [How to Version Control Your Production Machine Learning Models](https://blog.algorithmia.com/how-to-version-control-your-production-machine-learning-models/)
@@ -37,6 +39,9 @@ Note: excluding links to Wikipedia pages and official documentation
 ## Outliers
 [Outlier Detection techniques](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561)
 
+## Oversampling
+[The Right Way to Oversample in Predictive Modeling](https://beckernick.github.io/oversampling-modeling/)
+
 ## Web Scraping
 [How to remove the html/javascript using bs4](https://stackoverflow.com/questions/22799990/beatifulsoup4-get-text-still-has-javascript)
 
@@ -60,6 +65,8 @@ Note: excluding links to Wikipedia pages and official documentation
 
 [The Right Recs Metrics - Different Rating Scales](https://conversionxl.com/blog/survey-response-scales/)
 
+## Deployment
+[How to deploy a Flask app on AWS Lambda](https://blog.apcelent.com/deploy-flask-aws-lambda.html)
 
 ## General/Misc
 [AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
