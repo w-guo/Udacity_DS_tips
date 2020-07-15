@@ -33,6 +33,10 @@ Note: excluding links to Wikipedia pages and official documentation
 
 [Pandas Basic Functionality](https://pandas.pydata.org/pandas-docs/stable/basics.html)
 
+## Advanced Python OOP Topics
+[Decorators](https://realpython.com/primer-on-python-decorators/)
+[Mixins](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556)
+
 ## Regex
 [Regex cheatsheet](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 
