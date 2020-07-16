@@ -34,7 +34,12 @@ Note: excluding links to Wikipedia pages and official documentation
 [Pandas Basic Functionality](https://pandas.pydata.org/pandas-docs/stable/basics.html)
 
 ## Advanced Python OOP Topics
+[Instance, Class, and Static Methods](https://realpython.com/instance-class-and-static-methods-demystified/)
+
+[Class and Instance Attributes](https://www.python-course.eu/python3_class_and_instance_attributes.php)
+
 [Decorators](https://realpython.com/primer-on-python-decorators/)
+
 [Mixins](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556)
 
 ## Regex
