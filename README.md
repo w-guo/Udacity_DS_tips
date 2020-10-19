@@ -61,6 +61,8 @@ Note: excluding links to Wikipedia pages and official documentation
 
 [How not to run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
 
+[Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
+
 ## Recommendations
 [MovieTweetings dataset](https://github.com/sidooms/MovieTweetings). More about it [here](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf) and [here](https://www.slideshare.net/simondooms/movie-tweetings-a-movie-rating-dataset-collected-from-twitter)
 
